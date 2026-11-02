@@ -126,14 +126,16 @@ This validated the detection workflow; it does not represent evidence of a real-
 
 ## Screenshots
 
-### 1. Splunk Event Ingestion
-![Splunk Event Ingestion](screenshots/splunk-event-ingestion.png)
+## Screenshots
+
+### 1. Splunk Event Ingestion – Windows Logs
+![Windows Logs](screenshots/WINDOWS%20LOGS.png)
 
 ### 2. Failed Login Investigation – Event ID 4625
-![Failed Login Events](screenshots/failed-login-events.png)
+![Failed Logins](screenshots/FAILED%20LOGINS.png)
 
-### 3. Brute Force Detection Alert
-![Triggered Alert](screenshots/triggered-brute-force-alert.png)
+### 3. Brute Force Detection – Triggered Alert
+![Triggered Alerts](screenshots/TRIGGERED%20ALERTS.png)
 
 ## Skills Demonstrated
 
