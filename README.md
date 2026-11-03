@@ -124,7 +124,6 @@ This validated the detection workflow; it does not represent evidence of a real-
 - Successfully configured and validated a Splunk alert for repeated failed login attempts.
 - No account lockout, account disablement, or account deletion events were observed in the available dataset.
 
-## Screenshots
 
 ## Screenshots
 
